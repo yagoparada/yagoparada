@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
+I'm a data enthusiast who loves turning complex data into clear insights, with 3 years of experience as a data analyst building dashboards and managing large-scale datasets. I'm currently pursuing a **Master's in Statistics (Data Science concentration) at Baruch College**, graduating June 2027, and preparing to start my career in data analytics/data science.
 
-<!--
-**yagoparada/yagoparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently working on
+- 📊 A Tableau dashboard 
 
-Here are some ideas to get you started:
+## 📌 Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools I use
+`R` · `Python` · `SQL` · `Power BI` · `Tableau` · `SAS` · `Databricks`
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/yagoparada)
+
+---
+🏃 Fun facts: chasing the six major marathons (NYC ✅) and restoring vintage watches in my free time.
